@@ -1,4 +1,4 @@
-# ASD102-Object Oreitnated Programming with C++
+# ASD102-Object-Oriented Programming with C++
 Week One Attendance Assignment.
 Follow Steps Below:
 1. Fork this Repository.
